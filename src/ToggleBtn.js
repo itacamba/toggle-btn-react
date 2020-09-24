@@ -43,8 +43,8 @@ class ToggleBtn extends Component {
                     </label>
                 </div>
                 <div id="about">
-                    <a href="">Github Repository</a>
-                    <a href="">Carla Sahagun Portfolio</a>
+                    <a href="https://github.com/itacamba/toggle-btn-react">Github Repository</a>
+                    <a href="https://carlasahagun.com/">Carla Sahagun Portfolio</a>
                 </div>
             </div>
         );
